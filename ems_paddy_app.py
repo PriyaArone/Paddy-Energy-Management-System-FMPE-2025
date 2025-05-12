@@ -9,7 +9,6 @@ Original file is located at
 
 # EMS Paddy App
 # Developed for Google Colab / Streamlit Cloud deployment
-!pip install streamlit
 
 import streamlit as st
 import pandas as pd
